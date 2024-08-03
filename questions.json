@@ -1,0 +1,17 @@
+[
+    {"id": 1, "question": "Can you describe a recent challenge you faced?"},
+    {"id": 2, "question": "What are some of your favorite hobbies?"},
+    {"id": 3, "question": "Tell me about a goal you have set for yourself."},
+    {"id": 4, "question": "Can you explain a project you are currently working on?"},
+    {"id": 5, "question": "What is a skill you want to improve and why?"},
+    {"id": 6, "question": "What motivates you to work hard?"},
+    {"id": 7, "question": "Can you tell me about a memorable experience you've had?"},
+    {"id": 8, "question": "What are some of your aspirations for the future?"},
+    {"id": 9, "question": "How do you handle stress and pressure?"},
+    {"id": 10, "question": "What do you enjoy most about your current job or studies?"},
+    {"id": 11, "question": "Who has been a significant influence in your life and why?"},
+    {"id": 12, "question": "What is something you've learned recently that you found interesting?"},
+    {"id": 13, "question": "Can you describe a time when you had to overcome a significant obstacle?"},
+    {"id": 14, "question": "What are your favorite books or movies, and why do you like them?"},
+    {"id": 15, "question": "How do you like to spend your weekends?"}
+]
