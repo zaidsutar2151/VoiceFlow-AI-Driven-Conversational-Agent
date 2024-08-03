@@ -12,3 +12,6 @@ This project is a voice-enabled chatbot designed to facilitate interactive conve
 - **Contextual Responses**: Maintains conversation history to generate relevant and context-aware responses.
 
 ## Installation
+1. **Clone the Repository:**
+2. **Install Dependencies:**
+       pip install gtts speechrecognition langchain-ollama
